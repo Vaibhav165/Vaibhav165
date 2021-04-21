@@ -18,7 +18,7 @@ developement in Flutter.
     <a href="https://www.linkedin.com/in/vaibhav-bansal-bb9439200" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
-    <a href="https://www.instagram.com/_vaib25/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/_vaibhav255/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
     <a href="https://twitter.com/Vaibhav08343454?s=09" target="blank"><img align="center"
