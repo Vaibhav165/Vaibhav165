@@ -21,7 +21,7 @@ developement in Flutter.
     <a href="https://www.instagram.com/_vaibhav255/" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
-    <a href="https://twitter.com/Vaibhav08343454?s=09" target="blank"><img align="center"
+    <a href="https://twitter.com/Vaibhav0834?s=09" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
             width="40" /></a>
 </p>
